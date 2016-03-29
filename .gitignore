@@ -1,0 +1,10 @@
+*.suo
+.vs/config/applicationhost.config
+app/
+Basement/bin
+Basement/obj
+Content/
+packages/
+xnb_node.cmd
+pack.bat
+Basement/Properties/AssemblyInfo.cs
