@@ -1,0 +1,15 @@
+{
+"Name"           : "Basement Mod",
+"Authour"         : "Sempiternity",
+"Version"        :
+  {
+  "MajorVersion" : 0,
+  "MinorVersion" : 1,
+  "PatchVersion" : 0,
+  "Build"        : 0
+  },
+"Description"    :  "Adds a basement to the house.",
+"UniqueID"       :  "",
+"PerSaveConfigs" : false,
+"EntryDll"       : "Basement.dll"
+}
